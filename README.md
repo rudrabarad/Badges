@@ -75,5 +75,5 @@
 https://img.shields.io/badge/{FIRST}-{SECONDARY}-%23{HEX-COLOR}.svg?&style=for-the-badge&logo={ICON}&logoColor=white
 ```
 
-- To small badge remove {SECONDARY}
-- Get {ICON} and {HEX-COLOR} [here](https://simpleicons.org/)
+- To make small badge remove {SECONDARY}
+- Get {Icon} and {Hex-Color} [simpleicons.org](https://simpleicons.org/)
