@@ -1,4 +1,7 @@
 # Useful-Badges
+
+Here are few Badges which could be helpful while maintaining the repository <br><br>
+<centre>
 [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 <br>
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
@@ -18,3 +21,4 @@
 ![](https://img.shields.io/badge/Customized-Badge-blue)
 <br>
 ![](https://img.shields.io/badge/Left-Right-yellow)
+</centre>
