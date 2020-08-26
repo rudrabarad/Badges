@@ -21,6 +21,10 @@
 ![](https://img.shields.io/badge/Left-Right-yellow)
 <br>
 <br>
+[![Repos Badge](https://badges.pufler.dev/repos/rudrabarad)](https://badges.pufler.dev)
+
+<br>
+<br>
 <!-- https://shields.io/ -->
 <!-- ?style= flat/plastic/flat-square/for-the-badge/social -->
 <!-- ?color=brightgreen/green/yellowgreen/yellow/orange/red/blue/lightgrey/success/important/critical/informational/inactive/blueviolet/ff69b4(pink)/9cf(skyblue) -->
