@@ -73,6 +73,29 @@
 ![](https://img.shields.io/badge/Behance-%231877F2.svg?&style=flat&logo=behance&logoColor=white)
 <br>
 
+
+![](https://img.shields.io/badge/Whatsapp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)
+<br>
+![](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)
+<br>
+![](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)
+<br>
+![](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)
+<br>
+![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
+<br>
+![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)
+<br>
+![](https://img.shields.io/badge/Youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)
+<br>
+![](https://img.shields.io/badge/Behance-%231877F2.svg?&style=for-the-badge&logo=behance&logoColor=white)
+<br>
+
+![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/2403bc384b5b39128ef35b0c0b9f7050/raw/try.json)
+
+  
+
+
 ## ✏ Build Your Own
 
 ```
