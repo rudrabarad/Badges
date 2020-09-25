@@ -32,6 +32,8 @@
 
 </div>
 
+![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/ede1cf169c38ca8aed56b6ece631bfc8/raw/star.json)
+
 
 [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 <br>
