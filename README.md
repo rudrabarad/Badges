@@ -26,13 +26,14 @@
 <a href="https://github.com/clubgamma/Awesome-Flutter-Art/issues"><img src="https://img.shields.io/github/issues/rudrabarad/experiment?style=flat"/></a>
 <a href="https://github.com/clubgamma/Awesome-Flutter-Art/graphs/contributors"><img src="https://img.shields.io/github/contributors/rudrabarad/experiment?color=orange"/></a>
 <a href="https://github.com/clubgamma/Awesome-Flutter-Art/blob/master/LICENSE"><img src="https://img.shields.io/github/license/rudrabarad/experiment?color=1abc9c"/></a>
-<br>
-<i>If you want to add any feature or if you found a bug, feel free to open an issue</i><br><br>
+<br><br><br>
+![](https://img.shields.io/badge/Star-If_Liked-%23FF0000.svg?&style=flat&logoColor=white&color=white)
+![](https://img.shields.io/badge/Fork-If_you_found_interesting-%23FF0000.svg?&style=flat&logoColor=white&color=white)<br>
 <a href="https://github.com/clubgamma/Awesome-Flutter-Art/issues/new"><img src="https://img.shields.io/badge/Query-Ask_Me_Anything-red"/></a>
-
+<i>If you want to add any feature or if you found a bug, feel free to open an issue</i><br><br>
 </div>
 
-![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/ede1cf169c38ca8aed56b6ece631bfc8/raw/star.json)
+
 
 
 [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
