@@ -8,7 +8,7 @@
 <a href="https://github.com/clubgamma/Awesome-Flutter-Art/blob/master/LICENSE"><img src="https://img.shields.io/github/license/rudrabarad/Medi-Consult?color=1abc9c"/></a>
 <br>
 <i>If you want to add any feature or if you found a bug, feel free to open an issue</i><br><br>
-<a href="https://github.com/clubgamma/Awesome-Flutter-Art/issues/new"><img src="https://img.shields.io/badge/Query-Ask_Us_Anything-red"/></a>
+<a href="https://github.com/clubgamma/Awesome-Flutter-Art/issues/new"><img src="https://img.shields.io/badge/Query-Ask_Us_Anything-blue"/></a><br>
 <br><br><br>
 </div>
 -->
