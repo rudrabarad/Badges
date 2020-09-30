@@ -127,7 +127,7 @@
 ![](https://img.shields.io/badge/Behance-%231877F2.svg?&style=for-the-badge&logo=behance&logoColor=white)
 <br>
 
-![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/2403bc384b5b39128ef35b0c0b9f7050/raw/try.json)
+![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/5f367b75ae6ff53bb868f3d56567b1df/raw/discord.json)
 
   
 
