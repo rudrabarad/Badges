@@ -128,18 +128,17 @@
 <br>
 
 
-
-<!--
 <div align="center">
-![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/7a99c6832670e128f0f1332db49a5fc5/raw/rbinstagram.json)
-![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/99feeebcc3bb92f37e16b733b0ca0dec/raw/rb-quora.json)
-![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/9fe2b26dbd334fe805481ea4fa404fdc/raw/rb-behance.json)
-![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/7e65a99f7d06b0fea2664fd0e46b7eb8/raw/rb-telegram.json)
-![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/f7ba37afbc640e3900b73c4f372b3524/raw/rb-github.json)
-![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/7c32f7ab2804505a02dc7fd0c744b1d6/raw/rb-twitter.json)
-![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/a4b74622942cb069d7c8180d3dbfeb1d/raw/rb-linkedin.json)
-![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/51c0a30a510eae8ef618e63f179cb5c3/raw/rb-medium.json)
--->
+
+![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/8a6a7b8ccde5d35034c13b705ac02df5/raw/rb-facebook.json)
+![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/4899e2df2a3f1a5d388f6436db0059b3/raw/rb-linkedin.json)
+![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/5014864231f6045feea2d85de68c6e06/raw/rb-twitter.json)
+![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/d4dcef077e2876b01233e296d6b33244/raw/rb-github.json)
+![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0c38789d5ee493a224f702bdbb98bb7f/raw/rb-telegram.json)
+![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/22ffb599db68f29237c43543b6016104/raw/rb-behance.json)
+![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/8a9dc71fa29900ce585566c88f2c49ad/raw/rb-quora.json)
+![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0f7d9a39bbee15a32d1182669b359dd1/raw/rb-instagram.json)
+![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/b63c4bf218493fdef0059d5eb7d99e07/raw/rb-medium.json)
 </div>
 
 
